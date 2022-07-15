@@ -1,0 +1,9 @@
+{
+	"name": "akikainos123",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81d81570-8213-469e-aa61-e73aacdc9202",
+		"tenantId": "0fd78a89-8a75-47e9-959a-f183656b3cb0"
+	}
+}
